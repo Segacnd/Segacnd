@@ -26,6 +26,7 @@ I'm Belarusian front-end developer. Every day I try to be better than yesterday.
 <br/>
 * * *
 🔭 I’m currently working on:
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=perfect-todo)](https://github.com/Segacnd/perfect-todo) 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Segacnd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
