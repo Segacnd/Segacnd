@@ -1,15 +1,15 @@
-# I'm Sega
+# 🕺 I'm Sega
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm Belarusian front-end developer. Every day I try to be better than yesterday.
+I'm Belarusian front-end developer. I like to find best solutions and practice.
+Every day I try to be better than yesterday.
 
 
-### Languages
-<div>
-<img align="left" alt="React" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+### 🧰 Languages
 <img align="left" alt="JS" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="JS" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
@@ -21,12 +21,11 @@ I'm Belarusian front-end developer. Every day I try to be better than yesterday.
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" />
-</div>
 <br/>
 
 #
 
-🔭 I’m currently working on:
+🔧 I’m currently working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=perfect-todo)](https://github.com/Segacnd/perfect-todo) 
 
