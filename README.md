@@ -20,8 +20,9 @@ I'm Belarusian front-end developer. Every day I try to be better than yesterday.
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://testing-library.com/img/logo-large.png" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" />
+<img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
+<img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" />
 
-Skills: REACT/ Type Script / JS / HTML / CSS / Three.JS / Framer Motion / MUI / ANT / Redux / RTQ / Redux Saga / Redux Persist / Styled Components / Node JS / Express / Webpack / Jest / React Testing Library/ CI CD / 
 * * *
 🔭 I’m currently working on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=perfect-todo)](https://github.com/Segacnd/perfect-todo) 
