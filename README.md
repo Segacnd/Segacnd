@@ -7,6 +7,7 @@ I'm Belarusian front-end developer. Every day I try to be better than yesterday.
 
 ### Languages
 <img align="left" alt="React" width="40px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"/>
+<img align="left" alt="JS" width="40px" style="padding-right:10px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
 
 <br/>
 
