@@ -4,7 +4,6 @@
 
 I'm Belarusian front-end developer. Every day I try to be better than yesterday.
 
-#
 
 ### Languages
 <div>
