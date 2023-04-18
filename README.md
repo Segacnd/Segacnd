@@ -23,6 +23,7 @@ I'm Belarusian front-end developer. Every day I try to be better than yesterday.
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" />
 
+<br/>
 * * *
 🔭 I’m currently working on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=perfect-todo)](https://github.com/Segacnd/perfect-todo) 
