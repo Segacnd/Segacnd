@@ -32,5 +32,5 @@ Every day I try to be better than yesterday.
 #
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Segacnd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
-<img align="left" alt="JS" width="140px" style="padding-right:10px"  src="https://i.giphy.com/media/5QXWRp1CNGnMnZunC3/giphy-downsized-large.gif" />
+![hello](https://i.giphy.com/media/5QXWRp1CNGnMnZunC3/giphy-downsized-large.gif)
 
