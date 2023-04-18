@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm Belarusian front-end developer. I like to find best solutions and practice.
+Belarusian front-end developer. I like to find best solutions and practice.
 Every day I try to be better than yesterday.
 
 
