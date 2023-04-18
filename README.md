@@ -1,11 +1,9 @@
 ### Hi there 👋, I'm Sega
 #### Front-end React/JS developer from Belarus.
 ####  I like everything about React. Find and explore new libraries, create my own unique solutions.
-
-
-
+* * *
 Skills: REACT/ Type Script / JS / HTML / CSS / Three.JS / Framer Motion / MUI / ANT / Redux / RTQ / Redux Saga / Redux Persist / Styled Components / Node JS / Express / Webpack / Jest / React Testing Library/ CI CD / 
-
+* * *
 - 🔭 I’m currently working on:
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=perfect-todo)](https://github.com/Segacnd/perfect-todo) 
 
