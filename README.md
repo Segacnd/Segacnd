@@ -1,7 +1,15 @@
-### Hi there 👋, I'm Sega
-#### Front-end React/JS developer from Belarus.
-####  I like everything about React. Find and explore new libraries, create my own unique solutions.
+# I'm Sega
+
+**`Digital Craftsman (Developer/Creator)`**
+
+I'm Belarusian front-end developer. Every day I try to be better than yesterday.
 * * *
+
+### Languages
+<img align="left" alt="React" width="40px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"/>
+
+<br/>
+
 Skills: REACT/ Type Script / JS / HTML / CSS / Three.JS / Framer Motion / MUI / ANT / Redux / RTQ / Redux Saga / Redux Persist / Styled Components / Node JS / Express / Webpack / Jest / React Testing Library/ CI CD / 
 * * *
 🔭 I’m currently working on:
