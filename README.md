@@ -11,8 +11,6 @@ I'm Belarusian front-end developer. Every day I try to be better than yesterday.
 <img align="left" alt="React" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="JS" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="JS" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
