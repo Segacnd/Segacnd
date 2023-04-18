@@ -32,4 +32,4 @@ Every day I try to be better than yesterday.
 #
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Segacnd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-![](https://64.media.tumblr.com/8971fcddb36a737f462147f63957860a/tumblr_odz4fgkzO41tpri36o1_400.gifv)
+
