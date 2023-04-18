@@ -3,7 +3,8 @@
 **`Digital Craftsman (Developer/Creator)`**
 
 I'm Belarusian front-end developer. Every day I try to be better than yesterday.
-* * *
+
+#
 
 ### Languages
 <img align="left" alt="React" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -22,10 +23,9 @@ I'm Belarusian front-end developer. Every day I try to be better than yesterday.
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" />
-
 <br/>
 
-- - -
+#
 
 🔭 I’m currently working on:
 
