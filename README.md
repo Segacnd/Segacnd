@@ -27,9 +27,9 @@ Every day I try to be better than yesterday.
 
 🔧 I’m currently working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=perfect-todo)](https://github.com/Segacnd/perfect-todo) <img  alt="JS" width="200px" style="padding-left:50px"  src="https://i.ibb.co/bHgHsT4/image.png" />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=perfect-todo)](https://github.com/Segacnd/perfect-todo) <img  alt="JS" width="250px" style="padding-left:50px"  src="https://i.ibb.co/bHgHsT4/image.png" />
 
 #
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Segacnd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Segacnd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://i.giphy.com/media/5QXWRp1CNGnMnZunC3/giphy-downsized-large.gif" alt="capybara" width="150px"/>
 
