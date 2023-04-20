@@ -25,6 +25,14 @@ Every day I try to be better than yesterday.
 
 #
 
+|Languages| library  | ui  |   |   |
+|---|---|---|---|---|
+| js |  react | MUI  |   |   |
+| ts|   |   | ANT  |   |
+|   |   |   |   |   |
+
+#
+
 🔧 I’m currently working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=perfect-todo)](https://github.com/Segacnd/perfect-todo) 
