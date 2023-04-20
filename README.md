@@ -27,8 +27,8 @@ Every day I try to be better than yesterday.
 
 |Languages| library  | ui  |   |   |
 |---|---|---|---|---|
-| js |  react | MUI  |   |   |
-| ts|   |   | ANT  |   |
+| <img align="left" alt="JS" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> |  react | MUI  |   |   |
+| ts|   |  ANT |   |   |
 |   |   |   |   |   |
 
 #
