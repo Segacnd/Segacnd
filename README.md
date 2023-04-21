@@ -38,10 +38,10 @@
 #
 
 ##### Contancts
-<ul>
-### <li>✉️ <a href="https://t.me/segabelka">Telegramm</a></li>
-### <li>🤳 <a href="https://t.me/segabelka">Inst</a></li>
-</ul>
+
+* ✉️ <a href="https://t.me/segabelka">Telegramm</a>
+* 🤳 <a href="https://t.me/segabelka"><b>Inst</b></a>
+
 
 #
 
