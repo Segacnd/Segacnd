@@ -37,9 +37,9 @@
 
 #
 
-##### Contancts
+#### Contancts
 
-* ✉️ <a href="https://t.me/segabelka" style="color:black"><b>Telegramm</b></a>
+* ✉️ <a href="https://t.me/segabelka" color="red" style="color:red"><b>Telegramm</b></a>
 * 🤳 <a href="https://t.me/segabelka"><b>Inst</b></a>
 
 
