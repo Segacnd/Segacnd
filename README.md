@@ -2,7 +2,9 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-Belarusian front-end developer. I like to find best solutions and practice.
+🏢 Front-end developer from Belarus. 
+🔥 I belive that Typescript save the world. <a href="https://emojipedia.org/fire/" > hello </a>
+I like to find best solutions and practice.
 Every day I try to be better than yesterday.
 
 
