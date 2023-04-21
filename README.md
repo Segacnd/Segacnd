@@ -3,10 +3,11 @@
 **`Digital Craftsman (Developer/Creator)`**
 
 🏢 Front-end developer from Belarus. 
-🔥 I belive that Typescript save the world. <a href="https://emojipedia.org/fire/" > hello </a>
-I like to find best solutions and practice.
-Every day I try to be better than yesterday.
+🔥 I belive that <a href="https://www.typescriptlang.org/">Typescript</a> save the world.
+🕵️ I like to find best solutions and practice.
+💪 Every day I try to be better than yesterday.
 
+#
 
 ### 🧰 Languages
 
