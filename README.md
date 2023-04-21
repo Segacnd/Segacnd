@@ -40,7 +40,6 @@
 #### Contancts
 
 * ✉️ <a href="https://t.me/segabelka" ><b>Telegramm</b></a>
-* 🤳 <a href="https://t.me/segabelka"><b>Inst</b></a>
 
 
 #
