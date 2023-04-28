@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer/Creator)`**
 
 🏢 Front-end developer from Belarus. 
-🔥 I belive that <a href="https://www.typescriptlang.org/">Typescript</a> save the world.
+🔥 I belive that <a href="https://www.typescriptlang.org/">Typescript</a> save the world. <br/>
 🕵️ I like to find best solutions and practice.
 💪 Every day I try to be better than yesterday.
 
