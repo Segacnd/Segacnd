@@ -41,7 +41,6 @@
 
 * ✉️ <a href="https://t.me/segabelka" ><b>Telegramm</b></a>
 
-
 #
 
 🔧 I’m currently working on:
