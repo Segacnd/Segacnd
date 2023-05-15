@@ -6,6 +6,7 @@
 🔥 I belive that <a href="https://www.typescriptlang.org/">Typescript</a> save the world. <br/>
 🕵️ I like to find best solutions and practice. <br/>
 💪 Every day I try to be better than yesterday. <br/>
+📜 <a href="https://github.com/Segacnd/html-lessons">  If you want to learn HTML with me </a>
 #
 ### 🧰 Stack
 ##### General
