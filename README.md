@@ -16,7 +16,6 @@
 ##### Testing
 | <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> 	| <img align="left" alt="JS" width="40px" style="padding-right:10px"  src="https://testing-library.com/img/logo-large.png" /> 	|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------	|
-
 #
 
 ##### Code quality
