@@ -39,7 +39,7 @@
 
 🔧 I’m currently working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=MoneyMinder)](https://github.com/Segacnd/perfect-todo) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=MoneyMinder)](https://github.com/Segacnd/MoneyMinder) 
 
 #
 
