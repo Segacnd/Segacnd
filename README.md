@@ -37,10 +37,6 @@
 
 #
 
-🔧 I’m currently working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Segacnd&repo=MoneyMinder)](https://github.com/Segacnd/MoneyMinder) 
-
-#
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Segacnd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
