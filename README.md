@@ -34,6 +34,6 @@
 
 #
 
-<img src="[blob:https://web.telegram.org/3993cac7-d759-4209-841a-bde208c4558b](https://ibb.co/WNLtX2bs)" alt="ovi" /> 
+<img src="https://ibb.co/WNLtX2bs" alt="ovi" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Segacnd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
