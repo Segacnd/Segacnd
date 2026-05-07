@@ -34,6 +34,6 @@
 
 #
 https://ibb.co/WNLtX2bs
-<img src="https://ibb.co/WNLtX2bs" alt="ovi" /> 
+<img src="https://i.ibb.co/1Yk6NmDb/ya2.jpg" alt="ovi" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Segacnd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
