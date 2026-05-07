@@ -33,7 +33,7 @@
 * ✉️ <a href="https://t.me/segabelka" ><b>Telegram</b></a>
 
 #
-
+https://ibb.co/WNLtX2bs
 <img src="https://ibb.co/WNLtX2bs" alt="ovi" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Segacnd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
